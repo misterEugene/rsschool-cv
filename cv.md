@@ -31,3 +31,31 @@ After the new year 2023, I began to get acquainted on the Internet with people w
   * SASS(SCSS)
   * Bootstrap
 ***
+
+### Code example:
+
+**Which color is the brightest? KATA from CODEWARS:** One of the common ways of representing color is the RGB color model, in which the Red, Green, and Blue primary colors of light are added together in various ways to reproduce a broad array of colors. One of the ways to determine brightness of a color is to find the value V of the alternative HSV (Hue, Saturation, Value) color model. Value is defined as the largest component of a color. You are given a list of colors in 6-digit hexidecimal notation #RRGGBB. Return the brightest of these colors. If there are multiple brightest colors, return the first one.
+
+```
+function brightest(colors) {
+
+ let index = 0
+ let V = 0
+ 
+ for(let i = 0; i < colors.length; i++) {
+   const R = parseInt(colors[i].slice(1, 3), 16)
+   const G = parseInt(colors[i].slice(3, 5), 16)
+   const B = parseInt(colors[i].slice(5), 16)
+   
+   const currentV = Math.max(R, G, B)
+   
+   if(currentV > V) {
+     V = currentV
+     index = i
+   }
+  }
+  
+  return colors[index]
+}
+```
+***
