@@ -22,4 +22,12 @@ Although I had many moments before when I stopped learning to code and read agai
 After the new year 2023, I began to get acquainted on the Internet with people who are engaged in IT. Communicating with them helped me get back on the right track and put in twice as much effort. And now I will work every day until I reach my goal.
 ***
 
-
+### Skills 
+  * HTML, CSS
+  * JavaScript
+  * Git, GitHub
+  * Webpack
+  * Gulp
+  * SASS(SCSS)
+  * Bootstrap
+***
