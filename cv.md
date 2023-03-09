@@ -59,3 +59,37 @@ function brightest(colors) {
 }
 ```
 ***
+### My educational projects:
+
+* #### [Landing-page-Travel-in-Jopan](https://mistereugene.github.io/Landing-page-Travel-in-Jopan/ "Landing-page-Travel-in-Jopan")
+
+**Description:**
+This is a landing page. This project was created according to the ready-made design layout of Figma, when creating this project, technologies were used: html, css, js.
+[Here is link to project code](https://github.com/misterEugene/Landing-page-Travel-in-Jopan "link to project code")
+
+
+
+* #### [Landing-page-Delimobile](https://mistereugene.github.io/Landing-page-Delimobile/ "Landing-page-Delimobile")
+
+**Description:**
+This is a landing page. This project was created according to the ready-made design layout of Figma, when creating it, I used: html, scss, js, gulp.
+[Here is link to project code](https://github.com/misterEugene/Landing-page-Delimobile "link to project code")
+
+
+
+* #### [Landing-page-Thrivetalk](https://mistereugene.github.io/Landing-page-Thrivetalk/ "Landing-page-Thrivetalk")
+
+**Description:**
+This is a landing page. This project was created according to the ready-made design layout of Figma, when creating it, I used: html, scss, js, gulp.
+[Here is link to project code](https://github.com/misterEugene/Landing-page-Thrivetalk "link to project code")
+
+
+
+* #### [ToDoList](https://mistereugene.github.io/ToDoList/ "ToDoList")
+
+**Description:**
+This is a to-do list. When I creating it, I used: html, css, js, LocalStorage.
+[Here is link to project code](https://github.com/misterEugene/ToDoList "link to project code")
+***
+
+
