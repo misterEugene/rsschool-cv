@@ -92,4 +92,9 @@ This is a to-do list. When I creating it, I used: html, css, js, LocalStorage.
 [Here is link to project code](https://github.com/misterEugene/ToDoList "link to project code")
 ***
 
+### Education 
+
+I study at the Aviation Technology College at the DSTU (ATK DSTU), specialty - computer programmer / operator, faculty - information systems and programming.
+***
+
 
